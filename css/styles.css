@@ -15,6 +15,9 @@ h1{
 }
 h2 {
   background-color: cyan;
+  margin: 5px 0px;
+  text-align: left;
+  padding: 8px;
 }
 h2 > a {
   color: black;
@@ -36,6 +39,7 @@ ul li {
 main {
   width: 90%;
   margin: auto;
+  text-align: center;
 }
 span.imgcontrol {
   background-color: gold;
@@ -45,6 +49,12 @@ span.imgcontrol {
 
 div.imagesection {
   /*width: 32%;*/
-  margin: 1px;
+  margin: 0px 1px 8px;
   display: inline-block;
+}
+footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 1em 0;
 }
