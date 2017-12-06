@@ -36,6 +36,10 @@ ul li {
   background-color: #AAAAAA;
   padding: 0.15em;
 }
+ul li > a {
+  text-decoration: none;
+  color: inherit;
+}
 main {
   width: 90%;
   margin: auto;
