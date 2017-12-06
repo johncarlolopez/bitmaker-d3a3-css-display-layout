@@ -41,7 +41,7 @@ ul li > a {
   color: inherit;
 }
 main {
-  width: 90%;
+  width: 800px;
   margin: auto;
   text-align: center;
 }
@@ -49,6 +49,7 @@ span.imgcontrol {
   background-color: gold;
   display: block;
   text-align: center;
+  padding: 4px 0;
 }
 
 div.imagesection {
